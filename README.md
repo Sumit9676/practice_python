@@ -1,2 +1,3 @@
 # practice_python
-Where i basic practice python
+Basic code practice in python for machine learning
+```
