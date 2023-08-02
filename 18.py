@@ -14,3 +14,6 @@ for x in enumerate(cars, 10):        # Type 3
 
 print()
 print(list(enumerate(cars)))        # Type 4
+
+print()
+print(list(enumerate(cars, 4)))
